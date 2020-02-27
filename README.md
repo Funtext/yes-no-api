@@ -1,2 +1,3 @@
+[![Build Status](https://travis-ci.com/Funtext/yes-no-api.svg?branch=master)](https://travis-ci.com/Funtext/yes-no-api)
 # Yes No API
 An API that returns "Yes" or "No" with gifs from Giphy<br><br>Do you <strong>really</strong> need documentation? I don't think so...
