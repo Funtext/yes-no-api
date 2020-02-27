@@ -1,2 +1,2 @@
-# yes-no-api
-An API that returns "Yes" or "No" with gifs from Giphy
+# Yes No API
+An API that returns "Yes" or "No" with gifs from Giphy<br><br>Do you <strong>really</strong> need documentation? I don't think so...
