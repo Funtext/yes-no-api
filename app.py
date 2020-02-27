@@ -12,4 +12,7 @@ data = ["yes", "no"]
 @app.route('/')
 @cross_origin()
 def one_post():
-    return random.choice(data)
+    url = 'https://api.giphy.com/v1/gifs/random'
+    myobj = {'api_key': 'iMDy2jSTrxPi3WcTa1pwcHbf4BYq9HWH'}
+    x = requests.post(url, data = myobj)
+    return random.choice(data) + x
